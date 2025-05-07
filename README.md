@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://raw.githubusercontent.com/jihadakbr/jihadakbr/output/snake.svg" alt="Snake animation" />
