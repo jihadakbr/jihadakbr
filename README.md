@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Jihad Akbar</h1>
-<h3 align="center">Data Science Enthusiast</h3>
+<h3 align="center">Data Scientist</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/jihadakbr" target="_blank">
@@ -15,11 +15,9 @@
 <!-- About Section -->
 ## 📌 About Me
 - 🌍 Based in Jakarta, Indonesia
-- 🔭 Currently working as Machine Learning Annotator at PT Nomura Research Institute Indonesia
-- 🌱 Currently learning advanced Time Series Forecasting and Deep Learning techniques
+- 🔭 Currently working as Data Scientist at PT Berca Hardayaperkasa
 - 👯 Looking to collaborate on interesting Data Science and Machine Learning projects
 - 💬 Ask me about Machine Learning, Deep Learning, and Time Series Forecasting
-- ⚡ Fun fact: Graduated in Theoretical Physics before transitioning to Data Science
 
 ## 🔥 Skills Highlights
 - **Machine Learning**: Supervised/Unsupervised Learning, Time Series Forecasting (ARIMA, SARIMA, Prophet, LSTM)
